@@ -1,0 +1,1 @@
+ALTER TABLE `sb_groups_servers` CHANGE `server_id` `server_id` INT(11) NULL;
