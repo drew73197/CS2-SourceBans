@@ -2,9 +2,15 @@
 
 ### Do you appreciate what I do? Buy me a cup of tea ❤️
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4THKXG)
+### Do you appreciate what I am doing to bring in sourcebans++ think about supporting me too! ❤️
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reothecat)
+
+I am going to say this first before you read anything else
 
 ### Description
-Manage your Counter-Strike 2 server by simple commands :) 
+Manage your Counter-Strike 2 server by sourcebans++ :) 
+
+I leave the readme info untouched because it really didn't talk much about install either I will update this in the future, but as long as you already have an install of sourcebans webpanel there's not much that needs to be changed at this point. I really hope you the community help me make this the best it can be. I spent hours on this, and I want it to be the best it can be, while keeping our other game servers running like normal!
 
 ### Info
 ~~It's only plugin base~~, I don't have much time for more extensive development, so if you want to help, do it :)
